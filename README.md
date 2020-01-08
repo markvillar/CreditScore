@@ -11,5 +11,3 @@ I also added a **UITapGestureRecognizer** (Tap) that resets and re-fetches new v
 <img align="center" src="Screenshots/screen2.png" width="270" height="474" />
 <img align="left" src="Screenshots/screen3.png" width="270" height="474" />
 <img align="center" src="Screenshots/screen4.png" width="270" height="474" />
-
-![Screen Recording](Screenshots/recording.gif)
